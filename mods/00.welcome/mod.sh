@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 pinfo "=================================="
-pinfo "| Walnut HS Cyber Security Club  |"
-pinfo "|            Team 1              |"
+pinfo "|    MIHS Cyber Security Club    |"
+pinfo "|         Purple Team            |"
 pinfo "|     Linux Hardening Script     |"
 pinfo "=================================="
 pinfo "Timestamp: `date --rfc-3339=seconds`"
