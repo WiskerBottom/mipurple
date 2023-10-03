@@ -12,5 +12,5 @@ if [[ -d $RC/$OS/etc.zip ]]; then
         colordiff -r --no-dereference ${RC}/${OS}/etc /etc | less -R
     fi
 else
-    perror "Default config for this OS version not found"
+    perror "Difference between base etc and server etc"
 fi

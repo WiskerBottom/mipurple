@@ -7,7 +7,7 @@ Each functionality / configured service is put in modules located in `mods/`. En
 # python3
 # passwd
 # sudo -i
-# apt install git vim
+# apt install -y git vim
 # git clone https://github.com/davin-san/mipurple
 # cd mipurple
 # source harden.sh
