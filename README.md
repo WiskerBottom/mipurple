@@ -6,9 +6,10 @@ Each functionality / configured service is put in modules located in `mods/`. En
 ``` sh
 # python3
 # passwd
-# sudo apt install git vim
+# sudo -i
+# apt install git vim
 # git clone https://github.com/davin-san/mipurple
-# cd cypalinux
+# cd mipurple
 # source harden.sh
 # harden
 ```
